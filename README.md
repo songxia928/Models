@@ -5,4 +5,5 @@
 - NeXtVLAD
 - Attention
 - Transformer
+- Diffusion
 - ...
